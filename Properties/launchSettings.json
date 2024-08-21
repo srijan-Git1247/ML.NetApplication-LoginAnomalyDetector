@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoginAnomalyDetector": {
+      "commandName": "Project",
+      "commandLineArgs": "predict \"D:\\Machine Learning Projects\\LoginAnomalyDetector\\Data\\input.json\"\r\n"
+    }
+  }
+}
