@@ -27,7 +27,7 @@ Run the Console Application with commandline arguments:
 
 1. Train and test-evaluate the model using sampledata.csv and testdata.csv
 
->D:\Machine Learning Projects\CarPricePrediction\bin\Debug\net8.0 train "D:\Machine Learning Projects\LoginAnomalyDetector\Data\sampledata.csv"
+>D:\Machine Learning Projects\LoginAnomalyDetector\bin\Debug\net8.0 train "D:\Machine Learning Projects\LoginAnomalyDetector\Data\sampledata.csv"
 > "D:\Machine Learning Projects\LoginAnomalyDetector\Data\testdata.csv"
 
 ![Screenshot 2024-08-21 142604](https://github.com/user-attachments/assets/f2898751-c59c-4cb1-b577-66668fcfa332)
